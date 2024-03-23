@@ -22,6 +22,29 @@ font-family:Arial;
 }
 
 
+@media only screen and (max-width: 400px){
+    .body{
+background-color: aquamarine;
+font-family:Arial;
+}
+.title{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(136, 255, 255);
+}
 
+.Subheader1{
+    color:rgb(0, 0, 0);
+    text-align: center;
+
+    size: 48px;
+}
+.Subheader2{
+    color:rgb(0, 0, 0);
+    text-align: center;
+ 
+    size: 24px;
+}
+    
 
 
